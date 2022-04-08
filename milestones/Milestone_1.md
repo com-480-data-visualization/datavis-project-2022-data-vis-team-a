@@ -1,5 +1,5 @@
 # Milestone 1
-<img src="https://scontent.fqls1-1.fna.fbcdn.net/v/t31.18172-8/903839_283718408429933_1518137272_o.png?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=utd-kcsSIG4AX_fsY8a&tn=1kXV_IZ_qcOvpoEn&_nc_ht=scontent.fqls1-1.fna&oh=00_AT821-nw_gl1EXsWDImXFp5_39G4H-zGr0LMXjbvuZYp-w&oe=62766342" alt="save food" width="80">
+<img src="https://scontent.fqls1-1.fna.fbcdn.net/v/t31.18172-8/903839_283718408429933_1518137272_o.png?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=utd-kcsSIG4AX_fsY8a&tn=1kXV_IZ_qcOvpoEn&_nc_ht=scontent.fqls1-1.fna&oh=00_AT821-nw_gl1EXsWDImXFp5_39G4H-zGr0LMXjbvuZYp-w&oe=62766342" alt="save food" width="200">
 
 
 ## Dataset
@@ -25,7 +25,7 @@ Our project is mainly focusing on agriculture and food department. Currently the
 
 - The Global Dataset of Historical Yield
 
-<img src="https://github.com/com-480-data-visualization/datavis-project-2022-data-vis-team-a/blob/da332d7d17f105ad67a2e05396e0e39de99d062f/milestones/figures/GDHY.png" alt="GDHY statistics" width="400">
+<img src="https://github.com/com-480-data-visualization/datavis-project-2022-data-vis-team-a/blob/da332d7d17f105ad67a2e05396e0e39de99d062f/milestones/figures/GDHY.png" alt="GDHY statistics" width="600">
 
 
 ## Related work
