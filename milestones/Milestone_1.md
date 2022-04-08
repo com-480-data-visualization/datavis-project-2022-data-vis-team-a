@@ -7,7 +7,7 @@ Our project is mainly focusing on agriculture and food department. Currently the
 1. The Global Dataset of Historical Yield. It offers annual time series data of 0.5-degree grid-cell yield estimates of major crops worldwide for the period 1981-2016. The crops considered in this dataset are maize, rice, wheat and soybean. The unit of yield data is t/ha. The grd-cell yield data were estimated using the satellite-derived crop-specific vegetation index and FAO-reported country yield statistics. [🔗](https://doi.pangaea.de/10.1594/PANGAEA.909132)
 ![]()
 
-2. Food Loss and Food Waste Database.  It is the largest online collection of data on both food loss and food waste and causes reported throughout the literature from FAO. The database contains data and information from openly accessible reports and studies measuring food loss and waste across food products, stages of the value chain, and geographical areas. [🔗](https://www.fao.org/policy-support/tools-and-publications/resources-details/en/c/1445985/)
+2. Food Loss and Food Waste Database.  It is the largest online collection of data on both food loss and food waste and causes reported throughout the literature from [FAO](https://www.fao.org/home/en/). The database contains data and information from openly accessible reports and studies measuring food loss and waste across food products, stages of the value chain, and geographical areas. [🔗](https://www.fao.org/policy-support/tools-and-publications/resources-details/en/c/1445985/)
 ![]()
 
 3. UNICEF, WHO & World Bank’s Joint global database on child malnutrition. It provides country-level trends of 4 core child malnutrition indicators. All publicly available MICS and DHS with anthropometric data for the full age range of 0 to 59 months have been reanalyzed to produce standardized estimates over time. [🔗](https://data.unicef.org/resources/dataset/malnutrition-data/)
@@ -26,8 +26,7 @@ Our project is mainly focusing on agriculture and food department. Currently the
 
 - The Global Dataset of Historical Yield
 
-![Figure 1](https://github.com/com-480-data-visualization/datavis-project-2022-data-vis-team-a/blob/da332d7d17f105ad67a2e05396e0e39de99d062f/milestones/figures/GDHY.png | height="100")
-
+<img src="https://github.com/com-480-data-visualization/datavis-project-2022-data-vis-team-a/blob/da332d7d17f105ad67a2e05396e0e39de99d062f/milestones/figures/GDHY.png" alt="GDHY statistics" width="400">
 
 
 ## Related work
