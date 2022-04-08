@@ -1,4 +1,6 @@
 # Milestone 1
+<img src="https://scontent.fqls1-1.fna.fbcdn.net/v/t31.18172-8/903839_283718408429933_1518137272_o.png?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=utd-kcsSIG4AX_fsY8a&tn=1kXV_IZ_qcOvpoEn&_nc_ht=scontent.fqls1-1.fna&oh=00_AT821-nw_gl1EXsWDImXFp5_39G4H-zGr0LMXjbvuZYp-w&oe=62766342" alt="save food" width="80">
+
 
 ## Dataset
 
