@@ -16,8 +16,8 @@ From datavis-project-2022-data-vis-team-a
 - Focus Topic/Problem
 - Basic Statistics
 
-## Milestone 1 (23rd April, 5pm)
+## Milestone 2 (7th May, 5pm)
 
 
 
-## Milestone 1 (23rd April, 5pm)
+## Milestone 3 (4th June, 5pm)
