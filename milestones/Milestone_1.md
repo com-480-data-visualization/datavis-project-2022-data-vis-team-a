@@ -26,7 +26,7 @@ Our project is mainly focusing on agriculture and food department. Currently the
 
 - The Global Dataset of Historical Yield
 
-![Figure 1](https://github.com/com-480-data-visualization/datavis-project-2022-data-vis-team-a/blob/da332d7d17f105ad67a2e05396e0e39de99d062f/milestones/figures/GDHY.png | width="400")
+![Figure 1](https://github.com/com-480-data-visualization/datavis-project-2022-data-vis-team-a/blob/da332d7d17f105ad67a2e05396e0e39de99d062f/milestones/figures/GDHY.png | height="100")
 
 
 
