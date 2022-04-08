@@ -10,7 +10,7 @@ From `datavis-project-2022-data-vis-team-a`
 
 ## Milestone 1 (23rd April, 5pm)
 
-[Milestone 1 - Report](milestones/Milestone 1)
+[Milestone 1 - Report](milestones/Milestone\ 1)
 - Find Dataset
 - Focus Topic/Problem
 - Basic Statistics
