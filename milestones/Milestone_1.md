@@ -25,7 +25,7 @@ Our project is mainly focusing on agriculture and food department. Currently the
 ## Exploratory Data Analysis
 
 - The Global Dataset of Historical Yield
-![Figure 1](milestones/figures/GDHY.png)
+![Figure 1](https://github.com/com-480-data-visualization/datavis-project-2022-data-vis-team-a/blob/da332d7d17f105ad67a2e05396e0e39de99d062f/milestones/figures/GDHY.png)
 
 
 
