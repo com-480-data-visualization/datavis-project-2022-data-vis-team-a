@@ -1,7 +1,6 @@
-# datavis-project-2022-data-vis-team-a
 
 # Project of Data Visualization (COM-480)
-From datavis-project-2022-data-vis-team-a
+From `datavis-project-2022-data-vis-team-a`
 
 | Student's name | SCIPER |
 | -------------- | ------ |
